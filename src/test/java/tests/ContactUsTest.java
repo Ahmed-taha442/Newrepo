@@ -12,7 +12,7 @@ public class ContactUsTest extends TestBase
 	ContactUsPage contactPage;
 
 	String email = "test@test.com";
-	String fullName = "Test User";
+	String fullName = "Testssss User";
 	String enquiry = "Hello Admin , this is for test";
 
 	@Test
